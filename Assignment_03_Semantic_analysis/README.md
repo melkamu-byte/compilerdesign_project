@@ -12,6 +12,6 @@ scopes for exception-handling constructs such as try, catch, and finally.
 It ensures correct scoping of exception variables and validates proper
 resource access.
 Author:
-Name: <Melkamu Derso>  
-Student ID: <BDU1411374>  
+Name: Melkamu Derso
+Student ID: BDU1411374  
 Course: Compiler Design
