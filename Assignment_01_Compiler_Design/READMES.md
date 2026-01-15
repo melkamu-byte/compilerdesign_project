@@ -19,15 +19,9 @@ S → c
 
 ### 🌳 Parse Tree (Derived)
 
-    S
-  / | \
- a  S  a
-     |
-     S
-   / | \
-  b  S  b
-     |
-     c
+    
+<img width="1408" height="768" alt="Gemini_Generated_Image_b7r1nfb7r1nfb7r1" src="https://github.com/user-attachments/assets/3579635f-4d95-421d-adae-8c4bdfc1cbdc" />
+
 
 
 ---
