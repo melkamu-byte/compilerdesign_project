@@ -129,7 +129,4 @@ Proper scope management for `try` / `catch` / `finally`:
 
 ---
 
-If you'd like, I can:
-- Commit this reformatted file to the branch you specify, or
-- Open a pull request with the change.
-Tell me which action you prefer.
+
